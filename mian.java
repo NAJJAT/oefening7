@@ -21,7 +21,7 @@ class HelloWorld {
             slossy.jaag();
             Eiend duky = new Eiend("kwakki  ");
             duky.vlieg();
-
+System.out.println("hello  admonition");
              Dier[] zoo = {
                 new hond("buddy"),
                 new hond("rex"),
