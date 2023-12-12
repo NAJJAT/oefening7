@@ -1,7 +1,7 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        
+        System.out.println("brachsten");
         Dier dier1 = new hond("lessie");
         dier1.makgulid();
         Dier dier2 = new Kat("ester");
@@ -47,7 +47,7 @@ class HelloWorld {
          * 
          * 
          */
-
+            System.out.println("hello  ");
         // Loop door de 'zoo' en laat elk dier geluid maken, jagen, vervellen (voor slangen) en vliegen (voor vogels)
         for (Dier dier : zoo) {
             System.out.println(dier.getName() + ": ");
@@ -107,7 +107,8 @@ class HelloWorld {
         System.out.println("No");
 
         Emploeey e = new Emploeey("Buddy", 10000, 2,"programer","IT",123456789);
-            System.out.println(e.toString());
+
+        System.out.println(e.toString());
     }
 
 
