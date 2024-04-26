@@ -15,6 +15,7 @@ public class Klant  implements Comparable<Klant>{
     public Klant(String name) {
         this.name = name;
         klantlijst.add(this);
+        //code code code
     }
 
     @Override
