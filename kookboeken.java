@@ -7,8 +7,11 @@ public class kookboeken extends nonfictie  implements hardcover{
 
     @Override
     public int geefMeerprijs() {
-        return 5;
+        return 6;
+
     }
+
+
 
     
     
